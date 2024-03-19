@@ -1,0 +1,7 @@
+body {
+	background: linear-gradient(130deg, #C0C0C0, #FFFFFF);
+	background-size: 400% 400%;
+	-webkit-animation: gradient 180s ease infinite;
+	-moz-animation: gradient 180s ease infinite;
+	animation: gradient 180s ease infinite;
+}
